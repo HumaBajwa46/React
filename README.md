@@ -1,5 +1,5 @@
 # React
-<h1>React Mini Projects</h1>
+<h3>React Mini Projects</h3>
 This includes some basic react projects.
 It includes States and setStates.
 
